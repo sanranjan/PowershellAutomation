@@ -3,7 +3,7 @@
 
 ## Run VMware RestAPI
 
-### First configure users details on VMware Workstartion using below command.
+First configure users details on VMware Workstartion using below command.
 
 `vmrest.exe -C`
 
